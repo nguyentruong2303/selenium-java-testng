@@ -40,6 +40,7 @@ public class Topic_03_Xpath_Css_Part2 {
 		* //input[starts-with(@data-spm-anchor-id,'a2o4n.login_signup')]
 		*
 		* Phân biệt text() / contains(text()) và contains(string())
+		* concat () method
 		*
 		*
 		*
