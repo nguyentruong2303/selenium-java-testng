@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7df9f4d3-39bf-46e7-b041-84f7351ca3dd" name="Changes" comment="Update Topic 03 Xpath part 1 and part2">
-      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_03_Xpath_Css_Part3.java" afterDir="false" />
+    <list default="true" id="7df9f4d3-39bf-46e7-b041-84f7351ca3dd" name="Changes" comment="Update Topic 03 Xpath part 2 and part 3">
+      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_03_Xpath_Css_Part4_Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_04_Run_On_Browser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/webdriver/Topic_03_Xpath_Css_Part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/webdriver/Topic_03_Xpath_Css_Part2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/browserDrivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/browserDrivers/chromedriver" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,19 +33,6 @@
         </map>
       </branch-storage>
     </excluded-from-favorite>
-    <favorite-branches>
-      <branch-storage>
-        <map>
-          <entry type="LOCAL">
-            <value>
-              <list>
-                <branch-info repo="$PROJECT_DIR$" source="dev1" />
-              </list>
-            </value>
-          </entry>
-        </map>
-      </branch-storage>
-    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -83,24 +71,7 @@
       <recent name="webdriver" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Topic_02_Selenium_By">
-    <configuration name="Topic_01_Check_Environment" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Selenium-Java-Testing" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="webdriver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="webdriver" />
-      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_01_Check_Environment" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Topic_04_Run_On_Browser.TC_02_Run_on_Firefox">
     <configuration name="Topic_02_Selenium_By" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Selenium-Java-Testing" />
       <extension name="coverage">
@@ -118,12 +89,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Topic_03_Xpath_Css_Part4_Exercise" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_03_Xpath_Css_Part4_Exercise" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_03_Xpath_Css_Part4_Exercise.Register_01_Empty_Data" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_03_Xpath_Css_Part4_Exercise" />
+      <option name="METHOD_NAME" value="Register_01_Empty_Data" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_04_Run_On_Browser" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_04_Run_On_Browser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Topic_04_Run_On_Browser.TC_02_Run_on_Firefox" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-Java-Testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="webdriver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="webdriver" />
+      <option name="MAIN_CLASS_NAME" value="webdriver.Topic_04_Run_On_Browser" />
+      <option name="METHOD_NAME" value="TC_02_Run_on_Firefox" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Topic_02_Selenium_By" />
-        <item itemvalue="TestNG.Topic_01_Check_Environment" />
-        <item itemvalue="TestNG.Topic_02_Selenium_By" />
-        <item itemvalue="TestNG.Topic_01_Check_Environment" />
+        <item itemvalue="TestNG.Topic_04_Run_On_Browser.TC_02_Run_on_Firefox" />
+        <item itemvalue="TestNG.Topic_04_Run_On_Browser" />
+        <item itemvalue="TestNG.Topic_03_Xpath_Css_Part4_Exercise" />
+        <item itemvalue="TestNG.Topic_03_Xpath_Css_Part4_Exercise.Register_01_Empty_Data" />
         <item itemvalue="TestNG.Topic_02_Selenium_By" />
       </list>
     </recent_temporary>
@@ -165,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660659736594</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Update Topic 03 Xpath part 2 and part 3">
+      <created>1666781712379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666781712379</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,6 +230,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update xpath" />
     <MESSAGE value="Update Topic 03 Xpath part 1 and part2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Topic 03 Xpath part 1 and part2" />
+    <MESSAGE value="Update Topic 03 Xpath part 2 and part 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Topic 03 Xpath part 2 and part 3" />
   </component>
 </project>
