@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7df9f4d3-39bf-46e7-b041-84f7351ca3dd" name="Changes" comment="Update Topic 03 Xpath part 2 and part 3">
-      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_03_Xpath_Css_Part4_Exercise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_04_Run_On_Browser.java" afterDir="false" />
+    <list default="true" id="7df9f4d3-39bf-46e7-b041-84f7351ca3dd" name="Changes" comment="Update topic 3 and add topic 4">
+      <change afterPath="$PROJECT_DIR$/src/webdriver/Topic_05_Web_Browser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/browserDrivers/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/browserDrivers/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium-Java-Testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium-Java-Testing.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +51,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/t002404/Downloads/Automation learn/002-selenium webdriver/Selenium-Java-Testing/src/webdriver&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Users/t002404/Downloads/Automation learn/002-selenium webdriver/Selenium-Java-Testing/src/webdriver",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.idesettings.quicklists"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/webdriver" />
@@ -170,6 +172,9 @@
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7df9f4d3-39bf-46e7-b041-84f7351ca3dd" name="Changes" comment="" />
@@ -213,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666781712379</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update topic 3 and add topic 4">
+      <created>1671002341151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671002341151</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +243,7 @@
     <MESSAGE value="update xpath" />
     <MESSAGE value="Update Topic 03 Xpath part 1 and part2" />
     <MESSAGE value="Update Topic 03 Xpath part 2 and part 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Topic 03 Xpath part 2 and part 3" />
+    <MESSAGE value="Update topic 3 and add topic 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update topic 3 and add topic 4" />
   </component>
 </project>
